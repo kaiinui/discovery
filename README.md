@@ -3,8 +3,8 @@ discovery
 
 A hyper-schema written in YAML.
 
-```
-// .discovery.v2.yml
+```yml
+# .discovery.v2.yml
 
 service:
   id: com.example.hoge_api
