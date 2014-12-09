@@ -4,7 +4,7 @@ discovery
 A hyper-schema written in YAML.
 
 ```yml
-# .discovery.v2.yml
+# .discovery-v2.1.0.yml
 
 service:
   id: com.example.hoge_api
@@ -143,6 +143,7 @@ Generate a stub code backed by `OHHTTPStubs` for iOS.
 Considered Features
 ---
 
+- Support for custom serializer such as msgpack, protobuf
 - Generate & modify a schema file with command line
 - Client-side validation
 - Java bean generation
