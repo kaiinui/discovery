@@ -122,7 +122,7 @@ Code Generation
 
 ### Documentation Generation
 
-Generate a documentation backed by Swagger.
+[discoverydoc](https://github.com/kaiinui/discoverydoc) generates Markdown documentation from discovery file.
 
 ### Mock Server Generation
 
@@ -148,3 +148,4 @@ Considered Features
 - Client-side validation
 - Java bean generation
 - From / to JSON-Schema translation
+- Try-able documentation backed by Swagger
